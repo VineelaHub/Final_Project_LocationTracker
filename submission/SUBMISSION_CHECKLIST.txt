@@ -1,0 +1,7 @@
+Before submission
+1. Enter your name, instructor, date, and GitHub repository URL in the Word report.
+2. Insert your final application screenshots in the report.
+3. Test New route and reopening the app; update the report with your actual results if needed.
+4. Create your GitHub repository and upload the contents of Source, including its README and platform manifests. The archive contains no real API key or signing certificate.
+5. Submit the Word report and provide the GitHub repository URL. Include the source ZIP if your instructor requests a file upload.
+6. Follow any course policy on acknowledging assistance and ensure you can explain your implementation.

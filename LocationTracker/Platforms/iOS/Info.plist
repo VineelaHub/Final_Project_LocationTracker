@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleDisplayName</key><string>Location Tracker</string>
+  <key>CFBundleIdentifier</key><string>edu.cumberlands.locationtracker</string>
+  <key>NSLocationWhenInUseUsageDescription</key>
+  <string>Location Tracker saves GPS points on your device to display a local heat map while the app is open.</string>
+</dict></plist>
